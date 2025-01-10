@@ -11,11 +11,6 @@ export const JoschHead = (props: any) => {
         rotation={[0.795, 0.119, -0.355]}
         scale={0.013}
       >
-        {/* <meshPhysicalMaterial
-          roughness={1}
-          metalness={.6}
-          displacementScale={.1}
-        /> */}
       </mesh>
     </group>
   );
